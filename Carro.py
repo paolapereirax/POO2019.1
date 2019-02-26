@@ -55,7 +55,7 @@ while (comando !=  "end"):
 		qtd = int(input:"Quanto deseja abastecer?")
 		carro.abastecerCarro(qtd)
 	elif (comando == "dirigir"):
-		dist = int(input:"Quantos kilometros deseja dirigir?")
+		dist = int(input:"Quantos quilometros deseja dirigir?")
 		carro.dirigirCarro(dist)
 	else:
 		print ("Comando invalido")
