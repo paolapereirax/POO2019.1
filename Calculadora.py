@@ -1,14 +1,16 @@
 class Calculadora:
-	def __init__(self):
+	def __init__(self, batMax):
 		self.bateria = 0
-		self.bateriamax = 0
+		self.bateriamax = batMax
 
 	def __str__(self):
-		return "Bateria Restante: " + str(self.bateria)
+		return "Bateria Restante: " + str(self.bateria) + "/" + str(self.bateriaMax)
 
 	def carregarBateria(self, carga):
 		self.bateria += carga
-
+		if (self.bateria > self.bateriaMax):
+			self.bateria = self.bateriaMax
+  
 	def somar(self, n1, n2):
 		print (n1 + n2)
 		self.bateria -= 1
@@ -18,16 +20,18 @@ class Calculadora:
 			print ("Erro: Numero nao pode ser dividido por 0")
 		else:	
 			print (n1 / n2)
-		self.bateria-= 1
+		self.bateria -= 1
 
 calculadora = Calculadora()
 operacao = " "
-print ("Digite: bateria, carregar, somar, dividir ou finalizar")
+print ("Digite: iniciar _cargaMax, bateria, carregar _valor, somar _a _b, dividir _a _b ou finalizar")
 while (operacao != "finalizar"):
 	operacao = input()
 
 	if (operacao == "finalizar"):
 		break
+	elif (operação == "iniciar"):
+		calculadora = Calculadora int(input("Digite 
 	elif (operacao == "bateria"):
 		print (calculadora)
 	elif (operacao == "carregar"):
