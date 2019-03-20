@@ -39,23 +39,21 @@ class Carro:
 
 carro = Carro()
 comando = " "
-print ("Digite: status, entrar, sair, abastecer, dirigir ou end")
+print ("Digite: status, entrar, sair, abastecer _valor, dirigir _kms ou end")
 while (comando !=  "end"):
 	comando = input()
 
-	if (comando == "end"):
+	if ui[0] == "end":
 		break
-	elif (comando == "status"):
+	elif ui[0] == "status":
 		print (carro)
-	elif (comando == "entrar"):
+	elif ui[0] == "entrar":
 		carro.entrar()
-	elif (comando == "sair"):
+	elif ui[0] == "sair":
 		carro.sair()
-	elif (comando == "abastecer"):
-		qtd = int(input:"Quanto deseja abastecer?")
-		carro.abastecerCarro(qtd)
-	elif (comando == "dirigir"):
-		dist = int(input:"Quantos quilometros deseja dirigir?")
-		carro.dirigirCarro(dist)
+	elif ui[0] == "abastecer":
+		carro.abastecerCarro(int(ui[1]))
+	elif ui[0] == "dirigir":
+		carro.dirigirCarro(int(ui[1]))
 	else:
 		print ("Comando invalido")
