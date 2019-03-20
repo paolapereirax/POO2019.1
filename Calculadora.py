@@ -28,20 +28,20 @@ print ("Digite: iniciar _cargaMax, bateria, carregar _valor, somar _a _b, dividi
 while (operacao != "finalizar"):
 	operacao = input()
 
-	if (operacao == "finalizar"):
+	if ui[0] == "finalizar":
 		break
-	elif (operação == "iniciar"):
+	elif ui[0] == "iniciar":
 		calculadora = Calculadora(int(ui[1])) 
-	elif (operacao == "bateria"):
+	elif ui[0] == "bateria":
 		print(calculadora)
-	elif (operacao == "carregar"):
+	elif ui[0] == "carregar":
 		calculadora.carregarBateria(int(ui[1]))
-	elif (operacao == "somar"):
+	elif ui[0] == "somar":
 		if (calculadora.bateria == 0):
 			print ("Sem bateria")
 		else:
 			calculadora.somar(int(ui[1]), (ui[2]))
-	elif (operacao == "dividir"):
+	elif ui[0] == "dividir":
 		if (calculadora.bateria == 0):
 			print ("Sem bateria")
 		else:
