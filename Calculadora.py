@@ -31,25 +31,20 @@ while (operacao != "finalizar"):
 	if (operacao == "finalizar"):
 		break
 	elif (operação == "iniciar"):
-		calculadora = Calculadora int(input("Digite 
+		calculadora = Calculadora(int(ui[1])) 
 	elif (operacao == "bateria"):
-		print (calculadora)
+		print(calculadora)
 	elif (operacao == "carregar"):
-		carga = int(input("Digite o quanto deseja carregar: "))
-		calculadora.carregarBateria(carga)
+		calculadora.carregarBateria(int(ui[1]))
 	elif (operacao == "somar"):
-		n1 = int(input("Digite o primeiro numero: "))
-		n2 = int(input("Digite o segundo numero: "))
 		if (calculadora.bateria == 0):
 			print ("Sem bateria")
 		else:
-			calculadora.somar(n1, n2)
+			calculadora.somar(int(ui[1]), (ui[2]))
 	elif (operacao == "dividir"):
-		n1 = int(input("Digite o dividendo: "))
-		n2 = int(input("Digite o divisor: "))
 		if (calculadora.bateria == 0):
 			print ("Sem bateria")
 		else:
-			calculadora.dividir(n1, n2)
+			calculadora.dividir(int(ui[1]), (ui[2]))
 	else:
 		print ("Comando invalido")
