@@ -40,7 +40,7 @@
   Fiz o código completo, porém dessa vez fiz em dois arquivos, um executável e outro com a classe.
   
 - Com quem e como fiz  
-  Fiz com a ajuda do Guilherme Mafezoli de SI. Dessa vez usei a IDE indicada pelo professor, seguindo o Raio X colocado no QxCode.
+  Fiz com a ajuda do meu namorado. Dessa vez usei a IDE indicada pelo professor, seguindo o Raio X colocado no QxCode.
   
 - O que aprendi e sei fazer  
   Aprendi um pouco sobre a IDE e a usar o git, já que dessa vez dividi em dois arquivos e aprendi um pouco da linguagem Java.
@@ -50,3 +50,20 @@
   
 - Quanto tempo levei para fazer a atividade  
   Por volta de 1 hora.
+
+
+## 04 - Tamagotchi em Java
+- O que fiz  
+  Fiz o código completo, incluindo todos os atributos e métodos pedidos.
+  
+- Com que e como fiz  
+  Meu namorado me ajudou. Fiz a partir das instruções do QXCode e do que foi dito em sala de aula.
+  
+- O que aprendi e sei fazer  
+  Aprendi o que devo colocar no construtor e a fazer melhor a parte de interação.
+  
+- O que tenho dificuldade  
+  A linguagem ainda é o maior desafio para mim, algumas partes da lógica, pois teve coisas que não consegui inserir a princípio e só depois de algum tempo pensei em como ajustar a lógica que estava seguindo.
+  
+- Quanto tempo levei para fazer a atividade  
+  Não fiz tudo no mesmo dia, mas juntando tudo acho que mais ou menos umas 2 horas e meia.
