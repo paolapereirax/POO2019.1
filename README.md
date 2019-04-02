@@ -53,17 +53,17 @@
 
 
 ## 04 - Tamagotchi em Java
-# - O que fiz  
+- O que fiz  
   Fiz o código completo, incluindo todos os atributos e métodos pedidos.
   
-# - Com quem e como fiz  
+- Com quem e como fiz  
   Meu namorado me ajudou. Fiz a partir das instruções do QXCode e do que foi dito em sala de aula.
   
-# - O que aprendi e sei fazer  
+- O que aprendi e sei fazer  
   Aprendi o que devo colocar no construtor e a fazer melhor a parte de interação.
   
-# - O que tenho dificuldade  
+- O que tenho dificuldade  
   A linguagem ainda é o maior desafio para mim, algumas partes da lógica, pois teve coisas que não consegui inserir a princípio e só depois de algum tempo pensei em como ajustar a lógica que estava seguindo.
   
-# - Quanto tempo levei para fazer a atividade  
+- Quanto tempo levei para fazer a atividade  
   Não fiz tudo no mesmo dia, mas juntando tudo acho que mais ou menos umas 2 horas e meia.
