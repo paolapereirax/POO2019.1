@@ -67,3 +67,24 @@
   
 - Quanto tempo levei para fazer a atividade  
   Não fiz tudo no mesmo dia, mas juntando tudo acho que mais ou menos umas 2 horas e meia.
+
+
+## 05 - Topic
+
+## 06 - Agiota
+
+## Avaliação Agência Bancária
+- O que fiz  
+  Fiz o que foi pedido na tarefa do QxCode.
+
+- Como fiz  
+  Fiz uma classe abstrata para conta bancária e duas classes filhas que herdavam os atributos e métodos dela, a conta corrente e a conta poupança e também criei uma classe Agência que guarda as contas em um array list.
+
+- O que aprendi e sei fazer  
+  Comecei a ter uma noção melhor sobre polimorfismo e herança.
+
+- O que tenho dificuldade  
+  Ainda tenho um pouco de dificuldade na parte do menu, demoro um tempo pra conseguir entender como fazer e assimilar o que é o que. Uso o modelo que foi ensinado em sala, então acabo sempre olhando os códigos antigos para seguir o modelo. Acho que esse seja o maior problema, já que mesmo sempre usando ele, nunca consigo fazer sozinha sem olhar os antigos.
+
+- Quanto tempo levei  
+  Acredito que somando o tempo total foi umas 6 horas, divido em 3 dias, pois fiquei presa em algumas partes do código e também fazendo coisas de outras cadeiras.
