@@ -29,6 +29,9 @@ public class Main {
             else if(uInput[0].equals("addDiaria")){
                 sistema.diaria(uInput[1]);
             }
+            else if(uInput[0].equals("remover")){
+                sistema.removeFunc(uInput[1]);
+            }
             else if(uInput[0].equals("show")){
                 sistema.mostraFunc(uInput[1]);
             }

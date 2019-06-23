@@ -23,6 +23,14 @@ public class Sistema {
         funcionarios.add(t);
     }
 
+    public void removeFunc(String nome){
+        for(Funcionario func : funcionarios){
+            if(func.getNome().equals(nome)){
+                funcionarios.remove(func);
+            }
+        }
+    }
+
     public void mostraFunc(String nome){
         for(Funcionario func : funcionarios){
             if(func.getNome().equals(nome)){
