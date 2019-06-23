@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5e92533-fbe0-4f66-93bd-a81abab636e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufc/quixada/poo/exec/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufc/quixada/poo/exec/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/ufc/quixada/poo/model/Sistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufc/quixada/poo/model/Sistema.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/ufc/quixada/poo/exec/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
@@ -73,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/ufc/quixada/poo/model/Sistema.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+            <state relative-caret-position="410">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -101,8 +99,8 @@
         <option value="$PROJECT_DIR$/src/br/ufc/quixada/poo/model/STA.java" />
         <option value="$PROJECT_DIR$/src/br/ufc/quixada/poo/model/Professor.java" />
         <option value="$PROJECT_DIR$/src/br/ufc/quixada/poo/model/Terceirizado.java" />
-        <option value="$PROJECT_DIR$/src/br/ufc/quixada/poo/model/Sistema.java" />
         <option value="$PROJECT_DIR$/src/br/ufc/quixada/poo/exec/Main.java" />
+        <option value="$PROJECT_DIR$/src/br/ufc/quixada/poo/model/Sistema.java" />
       </list>
     </option>
   </component>
@@ -256,13 +254,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/ufc/quixada/poo/model/Sistema.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/br/ufc/quixada/poo/exec/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -270,6 +261,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufc/quixada/poo/model/Sistema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
     </entry>

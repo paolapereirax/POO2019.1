@@ -27,6 +27,7 @@ public class Sistema {
         for(Funcionario func : funcionarios){
             if(func.getNome().equals(nome)){
                 funcionarios.remove(func);
+                break;
             }
         }
     }
