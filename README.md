@@ -156,10 +156,10 @@
   
 ## Avaliação Agência Bancária
 - O que fiz  
- Criei uma classe abstrata conta bancaria que é pai de duas outras classes, conta poupança e conta corrente. As classes filhas herdam os atributos e métodos da classe pai e cada uma os impementa de um jeito diferente, também criei uma classe agencia onde são armazenadas as contas bancárias em um ArrayList e possui métodos para remover e inserir contas.
+ Criei uma classe abstrata conta bancaria que é mãe de duas outras classes, conta poupança e conta corrente. As classes filhas herdam os atributos e métodos da classe pai e cada uma os impementa de um jeito diferente, também criei uma classe agencia onde são armazenadas as contas bancárias em um arraylist e possui métodos para remover e inserir contas.
 
 - Como fiz  
-  Fiz uma classe abstrata para conta bancária e duas classes filhas que herdavam os atributos e métodos dela, a conta corrente e a conta poupança e também criei uma classe Agência que guarda as contas em um array list.
+  Fiz uma classe abstrata para conta bancária e duas classes filhas que herdavam os atributos e métodos dela, a conta corrente e a conta poupança e também criei uma classe Agência que guarda as contas em um arraylist.
 
 - O que aprendi e sei fazer  
   Comecei a ter uma noção melhor sobre polimorfismo e herança.
