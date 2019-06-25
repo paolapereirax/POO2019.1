@@ -174,6 +174,6 @@
 ## Observações
   - Em todas as atividades, meu namorado e alguns amigos me ajudaram sempre que fiquei presa em alguma coisa. Nas últimas que envolviam herança e polimorfismo precisei de um pouco mais de ajuda. Então ainda não tenho certeza se conseguiria implementar o sistema completo e totalmente funcional sozinha sem a ajuda de alguém.  
   - Ainda não sei usar o git direito então sempre recebia ajuda na hora dos commits.  
-  - Desenvolvi bem a linguagem, mas ainda não me sinto totalmente segura, sempre pesquiso algumas coisas sobre ou peço ajuda. Mas a IDE ajudou bastante, pois ela dá "dicas".  
+  - Desenvolvi bem a linguagem, mas ainda não me sinto totalmente segura, sempre pesquiso algumas coisas sobre ou peço ajuda.  
   - Entendi bem como funciona a orientação a objetos, porém ainda tenho problemas na hora de desenvolver a lógica nos sistemas.   
   
