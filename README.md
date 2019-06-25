@@ -108,7 +108,7 @@
   Criei três classes, uma para a operação, outra para a conta e a executável. A classe conta possui um arraylist de operações e todos os métodos de funções bancárias como saque, depósito, extorno e cada operação possui uma tarifa. A executável possui o menu do cliente.
   
 - Com quem e como fiz  
-  Fiz com a ajuda do meu namorado e do seu código do github.
+  Fiz com a ajuda do meu namorado.
   
 - O que aprendi e sei fazer  
   Aprendi melhor como manipular métodos de operações através de gets e sets.
