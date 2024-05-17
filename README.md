@@ -1,5 +1,4 @@
 # POO2019.1
-![alt text](https://images.benchmarkemail.com/client1036391/image6819702.jpg)
 
 ## 01 - Carro
 - O que eu fiz  
